@@ -123,8 +123,8 @@ def parse_schedule(html, academic_titles):
 
     return lessons
 
-def generate_ics(lessons, filename="schedule.ics"):
-    ics_content = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//scheduleWCY//EN\nCALSCALE:GREGORIAN\n"
+def generate_ics(lessons, filename="schedule.ics", group_id = GROUP_ID):
+    ics_content = f"BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//scheduleWCY//EN\nCALSCALE:GREGORIAN\nX-WR-CALNAME:{group_id}\n"
     
     for lesson in lessons:
         start = lesson['start'].strftime("%Y%m%dT%H%M%S")
@@ -140,7 +140,7 @@ def generate_ics(lessons, filename="schedule.ics"):
     
     with open(filename, "w", encoding="utf-8") as f:
         f.write(ics_content)
-    print(f"Plik kalendarza zapisany jako {filename}")
+    print(f"Plik kalendarza '{group_id}' zapisany jako {filename}")
 
 academic_titles = load_lecturer_titles()
 html = fetch_schedule()
