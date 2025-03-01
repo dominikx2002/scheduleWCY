@@ -139,7 +139,7 @@ def generate_ics(lessons, filename="schedule.ics"):
 
         summary = f"{lesson['subject']} {lesson['type']}"
         location = lesson['room']
-        description = f"{lesson['full_subject']}\nRodzaj zajęć: {lesson['type_full']}\nNr zajęć: {lesson['lesson_number']}\nProwadzący: {lesson['lecturer']}"
+        description = f"{lesson['full_subject']}\\nRodzaj zajęć: {lesson['type_full']}\\nNr zajęć: {lesson['lesson_number']}\\nProwadzący: {lesson['lecturer']}"
 
         ics_content += f"""BEGIN:VEVENT
 DTSTART:{start}
