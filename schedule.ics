@@ -5,1711 +5,3421 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 DTSTART:20250303T080000
 DTEND:20250303T093500
-SUMMARY:Systemy operacyjne UNIX - (Wykład) - Furtak Janusz
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/10
+Prowadzący: Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T095000
 DTEND:20250303T112500
-SUMMARY:Systemy operacyjne UNIX - (Wykład) - Furtak Janusz
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/10
+Prowadzący: Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T080000
 DTEND:20250304T093500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Wykład) - Jarosz Michał
+SUMMARY:Est (w)
+LOCATION:317 S
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/7
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T114000
 DTEND:20250304T131500
-SUMMARY:Niezawodność systemów komputerowych - (Wykład) - Nowicki Tadeusz
+SUMMARY:Nsk (w)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/7
+Prowadzący: Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T133000
 DTEND:20250304T150500
-SUMMARY:Niezawodność systemów komputerowych - (Wykład) - Nowicki Tadeusz
+SUMMARY:Nsk (w)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/7
+Prowadzący: Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T080000
 DTEND:20250305T093500
-SUMMARY:Działania pokojowe i stabilizacyjne - (Wykład) -
+SUMMARY:DPI (w)
+LOCATION:19 36
+DESCRIPTION:Działania pokojowe i stabilizacyjne - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/3
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T095000
 DTEND:20250305T112500
-SUMMARY:Bezpieczeństwo w cyberprzestrzeni (BwCP) - (Wykład) - Marczyk Maciej
+SUMMARY:BwCP (w)
+LOCATION:19 36
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/3
+Prowadzący: Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T114000
 DTEND:20250305T131500
-SUMMARY:Systemy wbudowane - (Wykład) - Murawski Krzysztof
+SUMMARY:Swb (w)
+LOCATION:309 S
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/10
+Prowadzący: Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T133000
 DTEND:20250305T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T095000
 DTEND:20250306T112500
-SUMMARY:Gotowość mobilizacyjna i bojowa - (Wykład) -
+SUMMARY:GMiB (w)
+LOCATION:AW 4
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T114000
 DTEND:20250306T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 2/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T160000
 DTEND:20250306T173500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 3/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T080000
 DTEND:20250307T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 2/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T095000
 DTEND:20250307T112500
-SUMMARY:Szkolenie strzeleckie - (Ćwiczenia) - -
+SUMMARY:SzS (ć)
+LOCATION:ST.nr
+DESCRIPTION:Szkolenie strzeleckie
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T114000
 DTEND:20250307T131500
-SUMMARY:Szkolenie strzeleckie - (Ćwiczenia) - -
+SUMMARY:SzS (ć)
+LOCATION:ST.nr
+DESCRIPTION:Szkolenie strzeleckie
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 2/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T133000
 DTEND:20250307T150500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T160000
 DTEND:20250307T173500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T175000
 DTEND:20250307T192500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T194000
 DTEND:20250307T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T080000
 DTEND:20250308T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T080000
 DTEND:20250310T093500
-SUMMARY:Systemy operacyjne UNIX - (Wykład) - Furtak Janusz
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/10
+Prowadzący: Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T095000
 DTEND:20250310T112500
-SUMMARY:Systemy operacyjne UNIX - (Wykład) - Furtak Janusz
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/10
+Prowadzący: Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
 DTEND:20250310T150500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Wykład) - Patkowski Adam
+SUMMARY:Oni (w)
+LOCATION:307 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T160000
 DTEND:20250310T173500
-SUMMARY:JavaEE Technologies - (Wykład) - Cybulski Piotr
+SUMMARY:JEt (w)
+LOCATION:316 S
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/5
+Prowadzący: Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
 DTEND:20250311T093500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Wykład) - Jarosz Michał
+SUMMARY:Est (w)
+LOCATION:317 S
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/7
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
 DTEND:20250311T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 3/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
 DTEND:20250311T131500
-SUMMARY:Niezawodność systemów komputerowych - (Wykład) - Nowicki Tadeusz
+SUMMARY:Nsk (w)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/7
+Prowadzący: Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T133000
 DTEND:20250311T150500
-SUMMARY:Niezawodność systemów komputerowych - (Wykład) - Nowicki Tadeusz
+SUMMARY:Nsk (w)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/7
+Prowadzący: Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T160000
 DTEND:20250312T173500
-SUMMARY:Ataki sieciowe - (Wykład) - Pachnik Marcin
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/8
+Prowadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T175000
 DTEND:20250312T192500
-SUMMARY:Ataki sieciowe - (Wykład) - Pachnik Marcin
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/8
+Prowadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T080000
 DTEND:20250313T093500
-SUMMARY:Sieci komputerowe II - (Wykład) - Malinowski Tomasz
+SUMMARY:SKII (w)
+LOCATION:307 S
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/5
+Prowadzący: Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T095000
 DTEND:20250313T112500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -
+SUMMARY:PKSt (w)
+LOCATION:19 36
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T114000
 DTEND:20250313T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 4/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T133000
 DTEND:20250313T150500
-SUMMARY:Regulaminy SZ RP - (Wykład) -
+SUMMARY:REG (w)
+LOCATION:AW 3/0
+DESCRIPTION:Regulaminy SZ RP - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/1
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T160000
 DTEND:20250313T173500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 5/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T175000
 DTEND:20250313T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 1/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T080000
 DTEND:20250314T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 4/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T095000
 DTEND:20250314T112500
-SUMMARY:Szkolenie strzeleckie - (Ćwiczenia) - -
+SUMMARY:SzS (ć)
+LOCATION:ŚNIE�
+DESCRIPTION:Szkolenie strzeleckie
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 3/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T114000
 DTEND:20250314T131500
-SUMMARY:Szkolenie strzeleckie - (Ćwiczenia) - -
+SUMMARY:SzS (ć)
+LOCATION:ŚNIE�
+DESCRIPTION:Szkolenie strzeleckie
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 4/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T133000
 DTEND:20250314T150500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T160000
 DTEND:20250314T173500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T175000
 DTEND:20250314T192500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T194000
 DTEND:20250314T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250315T080000
 DTEND:20250315T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 2/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T095000
 DTEND:20250317T112500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+SUMMARY:PKSt (ć)
+LOCATION:205 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/10
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T114000
 DTEND:20250317T131500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 1/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
 DTEND:20250317T150500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 2/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T160000
 DTEND:20250317T173500
-SUMMARY:JavaEE Technologies - (Wykład) - Cybulski Piotr
+SUMMARY:JEt (w)
+LOCATION:316 S
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/5
+Prowadzący: Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T175000
 DTEND:20250317T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 2/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
 DTEND:20250318T093500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Wykład) - Jarosz Michał
+SUMMARY:Est (w)
+LOCATION:317 S
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/7
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
 DTEND:20250318T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 5/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
 DTEND:20250318T131500
-SUMMARY:Niezawodność systemów komputerowych - (Wykład) - Nowicki Tadeusz
+SUMMARY:Nsk (w)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Wykład
+Nr zajęć: 5/7
+Prowadzący: Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
 DTEND:20250318T150500
-SUMMARY:Niezawodność systemów komputerowych - (Wykład) - Nowicki Tadeusz
+SUMMARY:Nsk (w)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Wykład
+Nr zajęć: 6/7
+Prowadzący: Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
-SUMMARY:Systemy wbudowane - (Wykład) - Murawski Krzysztof
+SUMMARY:Swb (w)
+LOCATION:309 S
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/10
+Prowadzący: Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
 DTEND:20250319T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 6/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T160000
 DTEND:20250319T173500
-SUMMARY:Ataki sieciowe - (Wykład) - Pachnik Marcin
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/8
+Prowadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T175000
 DTEND:20250319T192500
-SUMMARY:Ataki sieciowe - (Wykład) - Pachnik Marcin
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/8
+Prowadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
 DTEND:20250320T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 7/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T133000
 DTEND:20250320T150500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+SUMMARY:PKSt (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 2/10
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T160000
 DTEND:20250320T173500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 8/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T175000
 DTEND:20250320T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 3/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T080000
 DTEND:20250321T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 6/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T160000
 DTEND:20250321T173500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Laboratorium) - Jarosz Michał
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 1/10
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T175000
 DTEND:20250321T192500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Laboratorium) - Jarosz Michał
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 2/10
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T194000
 DTEND:20250321T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250322T080000
 DTEND:20250322T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 3/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T080000
 DTEND:20250324T093500
-SUMMARY:Systemy operacyjne UNIX - (Wykład) - Furtak Janusz
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Wykład
+Nr zajęć: 5/10
+Prowadzący: Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T095000
 DTEND:20250324T112500
-SUMMARY:Systemy operacyjne UNIX - (Wykład) - Furtak Janusz
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Wykład
+Nr zajęć: 6/10
+Prowadzący: Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T114000
 DTEND:20250324T131500
-SUMMARY:Sieci komputerowe II - (Wykład) - Malinowski Tomasz
+SUMMARY:SKII (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/5
+Prowadzący: Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T160000
 DTEND:20250324T173500
-SUMMARY:JavaEE Technologies - (Wykład) - Cybulski Piotr
+SUMMARY:JEt (w)
+LOCATION:316 S
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/5
+Prowadzący: Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000
 DTEND:20250325T093500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Wykład) - Jarosz Michał
+SUMMARY:Est (w)
+LOCATION:203 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/7
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
 DTEND:20250325T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 7/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
 DTEND:20250325T131500
-SUMMARY:Niezawodność systemów komputerowych - (Wykład) - Nowicki Tadeusz
+SUMMARY:Nsk (w)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Wykład
+Nr zajęć: 7/7
+Prowadzący: Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
 DTEND:20250325T150500
-SUMMARY:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -
+SUMMARY:PESW (w)
+LOCATION:19 36
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/4
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T160000
 DTEND:20250325T173500
-SUMMARY:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -
+SUMMARY:PESW (w)
+LOCATION:19 36
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/4
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T175000
 DTEND:20250325T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 4/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T080000
 DTEND:20250326T093500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Wykład) - Patkowski Adam
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
 DTEND:20250326T112500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Wykład) - Patkowski Adam
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
-SUMMARY:Sieci komputerowe II - (Wykład) - Malinowski Tomasz
+SUMMARY:SKII (w)
+LOCATION:307 S
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/5
+Prowadzący: Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
 DTEND:20250326T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 9/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T160000
 DTEND:20250326T173500
-SUMMARY:Ataki sieciowe - (Wykład) - Pachnik Marcin
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 5/8
+Prowadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
 DTEND:20250327T093500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 3/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T095000
 DTEND:20250327T112500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 4/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
 DTEND:20250327T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 10/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
 DTEND:20250327T150500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+SUMMARY:PKSt (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 3/10
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T160000
 DTEND:20250327T173500
-SUMMARY:Ataki sieciowe - (Wykład) - Pachnik Marcin
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 6/8
+Prowadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
 DTEND:20250328T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 8/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T114000
 DTEND:20250328T131500
-SUMMARY:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -
+SUMMARY:PESW (w)
+LOCATION:19 36
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/4
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
 DTEND:20250328T150500
-SUMMARY:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -
+SUMMARY:PESW (w)
+LOCATION:19 36
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/4
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T175000
 DTEND:20250328T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 5/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T194000
 DTEND:20250328T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T080000
 DTEND:20250329T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 4/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T080000
 DTEND:20250331T093500
-SUMMARY:Systemy operacyjne UNIX - (Wykład) - Furtak Janusz
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Wykład
+Nr zajęć: 7/10
+Prowadzący: Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T095000
 DTEND:20250331T112500
-SUMMARY:Systemy operacyjne UNIX - (Wykład) - Furtak Janusz
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Wykład
+Nr zajęć: 8/10
+Prowadzący: Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000
 DTEND:20250331T131500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Wykład) - Patkowski Adam
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Wykład) - Patkowski Adam
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Wykład
+Nr zajęć: 5/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T160000
 DTEND:20250331T173500
-SUMMARY:JavaEE Technologies - (Wykład) - Cybulski Piotr
+SUMMARY:JEt (w)
+LOCATION:316 S
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/5
+Prowadzący: Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T175000
 DTEND:20250331T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 6/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Wykład) - Jarosz Michał
+SUMMARY:Est (w)
+LOCATION:307 S
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Wykład
+Nr zajęć: 5/7
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 9/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
 DTEND:20250401T131500
-SUMMARY:HTML i aplikacje webowe - (Wykład) - Chudzikiewicz Jan
+SUMMARY:htm (w)
+LOCATION:308 S
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/7
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
 DTEND:20250401T150500
-SUMMARY:HTML i aplikacje webowe - (Wykład) - Chudzikiewicz Jan
+SUMMARY:htm (w)
+LOCATION:308 S
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/7
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T175000
 DTEND:20250401T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 7/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
 DTEND:20250402T112500
-SUMMARY:Sieci komputerowe II - (Wykład) - Malinowski Tomasz
+SUMMARY:SKII (w)
+LOCATION:307 S
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/5
+Prowadzący: Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
 DTEND:20250402T131500
-SUMMARY:Systemy wbudowane - (Wykład) - Murawski Krzysztof
+SUMMARY:Swb (w)
+LOCATION:309 S
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/10
+Prowadzący: Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
 DTEND:20250402T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 11/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T160000
 DTEND:20250402T173500
-SUMMARY:Ataki sieciowe - (Wykład) - Pachnik Marcin
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 7/8
+Prowadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T175000
 DTEND:20250402T192500
-SUMMARY:Niezawodność systemów komputerowych - (Ćwiczenia) - Kapałka Michał
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/8
+Prowadzący: Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
 DTEND:20250403T093500
-SUMMARY:Sieci komputerowe II - (Laboratorium) - Skibniewski Łukasz
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 1/10
+Prowadzący: Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
-SUMMARY:Sieci komputerowe II - (Laboratorium) - Skibniewski Łukasz
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 2/10
+Prowadzący: Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 12/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Projekt) - Jarosz Michał
+SUMMARY:Est (P)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Projekt
+Nr zajęć: 1/5
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
 DTEND:20250403T173500
-SUMMARY:Ataki sieciowe - (Wykład) - Pachnik Marcin
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 8/8
+Prowadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
 DTEND:20250404T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 10/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T095000
 DTEND:20250404T112500
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -
+SUMMARY:DSiSM (w)
+LOCATION:103 K
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/1
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T114000
 DTEND:20250404T131500
-SUMMARY:Regulaminy SZ RP - (Ćwiczenia) -
+SUMMARY:REG (ć)
+LOCATION:PL.MUS
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/3
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T133000
 DTEND:20250404T150500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Laboratorium) - Patkowski Adam
+SUMMARY:Oni (L)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 1/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T160000
 DTEND:20250404T173500
-SUMMARY:Połączone wsparcie ogniowe - (Wykład) -
+SUMMARY:Pwo (w)
+LOCATION:19 36
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 1/4
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T175000
 DTEND:20250404T192500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T194000
 DTEND:20250404T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T080000
 DTEND:20250405T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 5/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T095000
 DTEND:20250407T112500
-SUMMARY:Gotowość mobilizacyjna i bojowa - (Wykład) -
+SUMMARY:GMiB (w)
+LOCATION:103 K
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T114000
 DTEND:20250407T131500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -
+SUMMARY:PKSt (w)
+LOCATION:19 36
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T160000
 DTEND:20250407T173500
-SUMMARY:JavaEE Technologies - (Wykład) - Cybulski Piotr
+SUMMARY:JEt (w)
+LOCATION:316 S
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Wykład
+Nr zajęć: 5/5
+Prowadzący: Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
 DTEND:20250408T093500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Wykład) - Jarosz Michał
+SUMMARY:Est (w)
+LOCATION:203 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Wykład
+Nr zajęć: 6/7
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
 DTEND:20250408T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 11/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
 DTEND:20250408T131500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 5/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T133000
 DTEND:20250408T150500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 6/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T175000
 DTEND:20250408T192500
-SUMMARY:Niezawodność systemów komputerowych - (Ćwiczenia) - Kapałka Michał
+SUMMARY:Nsk (ć)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 2/8
+Prowadzący: Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T080000
 DTEND:20250409T093500
-SUMMARY:Sieci komputerowe II - (Wykład) - Malinowski Tomasz
+SUMMARY:SKII (w)
+LOCATION:307 S
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Wykład
+Nr zajęć: 5/5
+Prowadzący: Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
-SUMMARY:Systemy wbudowane - (Wykład) - Murawski Krzysztof
+SUMMARY:Swb (w)
+LOCATION:309 S
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/10
+Prowadzący: Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
-SUMMARY:Systemy wbudowane - (Wykład) - Murawski Krzysztof
+SUMMARY:Swb (w)
+LOCATION:309 S
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Wykład
+Nr zajęć: 5/10
+Prowadzący: Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T133000
 DTEND:20250409T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 13/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T160000
 DTEND:20250409T173500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 1/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T175000
 DTEND:20250409T192500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 2/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
 DTEND:20250410T093500
-SUMMARY:JavaEE Technologies - (Laboratorium) - Targowski Piotr
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 1/10
+Prowadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
 DTEND:20250410T112500
-SUMMARY:JavaEE Technologies - (Laboratorium) - Targowski Piotr
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 2/10
+Prowadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
 DTEND:20250410T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 14/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
 DTEND:20250410T150500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Laboratorium) - Jarosz Michał
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 3/10
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T160000
 DTEND:20250410T173500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Laboratorium) - Jarosz Michał
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 4/10
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T175000
 DTEND:20250410T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 8/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T080000
 DTEND:20250411T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 12/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T095000
 DTEND:20250411T112500
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna - (Seminarium) -
+SUMMARY:DSiSM (Inne)
+LOCATION:AW 3/0
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Seminarium) -
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/1
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
 DTEND:20250411T131500
-SUMMARY:Połączone wsparcie ogniowe - (Wykład) -
+SUMMARY:Pwo (w)
+LOCATION:S3 72
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/4
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T133000
 DTEND:20250411T150500
-SUMMARY:Połączone wsparcie ogniowe - (Wykład) -
+SUMMARY:Pwo (w)
+LOCATION:S3 72
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/4
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T194000
 DTEND:20250411T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T080000
 DTEND:20250412T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 6/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T080000
 DTEND:20250414T093500
-SUMMARY:Systemy operacyjne UNIX - (Wykład) - Furtak Janusz
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Wykład
+Nr zajęć: 9/10
+Prowadzący: Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
 DTEND:20250414T112500
-SUMMARY:Systemy operacyjne UNIX - (Wykład) - Furtak Janusz
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Wykład
+Nr zajęć: 10/10
+Prowadzący: Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T114000
 DTEND:20250414T131500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Wykład) - Patkowski Adam
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Wykład
+Nr zajęć: 6/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
 DTEND:20250414T150500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Wykład) - Patkowski Adam
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Wykład
+Nr zajęć: 7/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T160000
 DTEND:20250414T173500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 7/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T175000
 DTEND:20250414T192500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 8/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T080000
 DTEND:20250415T093500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Wykład) - Jarosz Michał
+SUMMARY:Est (w)
+LOCATION:203 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Wykład
+Nr zajęć: 7/7
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
 DTEND:20250415T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 13/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
 DTEND:20250415T131500
-SUMMARY:HTML i aplikacje webowe - (Wykład) - Chudzikiewicz Jan
+SUMMARY:htm (w)
+LOCATION:203 65
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/7
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000
 DTEND:20250415T150500
-SUMMARY:HTML i aplikacje webowe - (Wykład) - Chudzikiewicz Jan
+SUMMARY:htm (w)
+LOCATION:203 65
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/7
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T160000
 DTEND:20250415T173500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 3/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T175000
 DTEND:20250415T192500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 4/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T114000
 DTEND:20250416T131500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+SUMMARY:PKSt (ć)
+LOCATION:205 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 4/10
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T133000
 DTEND:20250416T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 15/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T160000
 DTEND:20250416T173500
-SUMMARY:Działania pokojowe i stabilizacyjne - (Wykład) -
+SUMMARY:DPI (w)
+LOCATION:19 36
+DESCRIPTION:Działania pokojowe i stabilizacyjne - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/3
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
 DTEND:20250417T093500
-SUMMARY:Sieci komputerowe II - (Laboratorium) - Skibniewski Łukasz
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 3/10
+Prowadzący: Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
 DTEND:20250417T112500
-SUMMARY:Sieci komputerowe II - (Laboratorium) - Skibniewski Łukasz
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 4/10
+Prowadzący: Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T114000
 DTEND:20250417T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 16/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
 DTEND:20250417T150500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Projekt) - Jarosz Michał
+SUMMARY:Est (P)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Projekt
+Nr zajęć: 2/5
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T160000
 DTEND:20250417T173500
-SUMMARY:HTML i aplikacje webowe - (Laboratorium) - Chudzikiewicz Jan
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 1/8
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T175000
 DTEND:20250417T192500
-SUMMARY:HTML i aplikacje webowe - (Laboratorium) - Chudzikiewicz Jan
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 2/8
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T080000
 DTEND:20250423T093500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 9/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 10/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
 DTEND:20250423T131500
-SUMMARY:Bezpieczeństwo w cyberprzestrzeni (BwCP) - (Ćwiczenia) - Goluch Marcin
+SUMMARY:BwCP (ć)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/2
+Prowadzący: Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
 DTEND:20250423T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 17/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T160000
 DTEND:20250423T173500
-SUMMARY:Bezpieczeństwo w cyberprzestrzeni (BwCP) - (Wykład) - Marczyk Maciej
+SUMMARY:BwCP (w)
+LOCATION:19 36
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)
+Rodzaj zajęć: Wykład
+Nr zajęć: 2/3
+Prowadzący: Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T175000
 DTEND:20250423T192500
-SUMMARY:Niezawodność systemów komputerowych - (Ćwiczenia) - Kapałka Michał
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 3/8
+Prowadzący: Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T080000
 DTEND:20250424T093500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Projekt) - Patkowski Adam
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Projekt
+Nr zajęć: 1/8
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T095000
 DTEND:20250424T112500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -
+SUMMARY:PKSt (w)
+LOCATION:19 36
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T114000
 DTEND:20250424T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 18/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
 DTEND:20250424T150500
-SUMMARY:JavaEE Technologies - (Laboratorium) - Targowski Piotr
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 3/10
+Prowadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T160000
 DTEND:20250424T173500
-SUMMARY:JavaEE Technologies - (Laboratorium) - Targowski Piotr
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 4/10
+Prowadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T080000
 DTEND:20250426T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 7/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T080000
 DTEND:20250428T093500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 11/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
 DTEND:20250428T112500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 12/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
 DTEND:20250428T131500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 14/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
 DTEND:20250428T150500
-SUMMARY:JavaEE Technologies - (Laboratorium) - Targowski Piotr
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 5/10
+Prowadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T160000
 DTEND:20250428T173500
-SUMMARY:JavaEE Technologies - (Laboratorium) - Targowski Piotr
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 6/10
+Prowadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T175000
 DTEND:20250428T192500
-SUMMARY:Niezawodność systemów komputerowych - (Ćwiczenia) - Kapałka Michał
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 4/8
+Prowadzący: Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
 DTEND:20250429T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 15/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000
 DTEND:20250429T131500
-SUMMARY:HTML i aplikacje webowe - (Wykład) - Chudzikiewicz Jan
+SUMMARY:htm (w)
+LOCATION:308 S
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 5/7
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
 DTEND:20250429T150500
-SUMMARY:HTML i aplikacje webowe - (Wykład) - Chudzikiewicz Jan
+SUMMARY:htm (w)
+LOCATION:308 S
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 6/7
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T160000
 DTEND:20250429T173500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:011 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 5/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T175000
 DTEND:20250429T192500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:011 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 6/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T095000
 DTEND:20250430T112500
-SUMMARY:Gotowość mobilizacyjna i bojowa - (Ćwiczenia) -
+SUMMARY:GMiB (ć)
+LOCATION:AW 3/0
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/1
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Projekt) - Jarosz Michał
+SUMMARY:Est (P)
+LOCATION:121 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Projekt
+Nr zajęć: 3/5
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T133000
 DTEND:20250430T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 19/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T160000
 DTEND:20250430T173500
-SUMMARY:Bezpieczeństwo w cyberprzestrzeni (BwCP) - (Wykład) - Marczyk Maciej
+SUMMARY:BwCP (w)
+LOCATION:19 36
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/3
+Prowadzący: Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
 DTEND:20250505T093500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Laboratorium) - Jarosz Michał
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 5/10
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
 DTEND:20250505T112500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Laboratorium) - Jarosz Michał
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 6/10
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T114000
 DTEND:20250505T131500
-SUMMARY:Sieci komputerowe II - (Laboratorium) - Skibniewski Łukasz
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 5/10
+Prowadzący: Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T133000
 DTEND:20250505T150500
-SUMMARY:Sieci komputerowe II - (Laboratorium) - Skibniewski Łukasz
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 6/10
+Prowadzący: Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T175000
 DTEND:20250505T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:125 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 9/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
 DTEND:20250506T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 16/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 17/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
 DTEND:20250506T131500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 18/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
 DTEND:20250507T112500
-SUMMARY:Gotowość mobilizacyjna i bojowa - (Wykład) -
+SUMMARY:GMiB (w)
+LOCATION:AW 1
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000
 DTEND:20250507T131500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+SUMMARY:PKSt (ć)
+LOCATION:205 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 5/10
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
 DTEND:20250507T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 20/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T160000
 DTEND:20250507T173500
-SUMMARY:Działania pokojowe i stabilizacyjne - (Wykład) -
+SUMMARY:DPI (w)
+LOCATION:19 36
+DESCRIPTION:Działania pokojowe i stabilizacyjne - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 3/3
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
 DTEND:20250508T093500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 13/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
 DTEND:20250508T112500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 14/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T114000
 DTEND:20250508T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 21/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
 DTEND:20250509T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 19/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T095000
 DTEND:20250509T112500
-SUMMARY:Regulaminy SZ RP - (Ćwiczenia) -
+SUMMARY:REG (ć)
+LOCATION:AW 3/0
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 2/3
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
 DTEND:20250509T131500
-SUMMARY:Połączone wsparcie ogniowe - (Wykład) -
+SUMMARY:Pwo (w)
+LOCATION:20 69
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/4
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T133000
 DTEND:20250509T150500
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -
+SUMMARY:DSiSM (ć)
+LOCATION:AW 3/0
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T160000
 DTEND:20250509T173500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Laboratorium) - Patkowski Adam
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 2/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T175000
 DTEND:20250509T192500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Laboratorium) - Patkowski Adam
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 3/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T194000
 DTEND:20250509T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T080000
 DTEND:20250510T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 8/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T080000
 DTEND:20250512T093500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 15/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T095000
 DTEND:20250512T112500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 16/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
 DTEND:20250512T131500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 20/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T160000
 DTEND:20250512T173500
-SUMMARY:Niezawodność systemów komputerowych - (Ćwiczenia) - Kapałka Michał
+SUMMARY:Nsk (ć)
+LOCATION:314 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 5/8
+Prowadzący: Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
 DTEND:20250513T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 21/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
 DTEND:20250513T150500
-SUMMARY:HTML i aplikacje webowe - (Wykład) - Chudzikiewicz Jan
+SUMMARY:htm (w)
+LOCATION:308 S
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Wykład
+Nr zajęć: 7/7
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T160000
 DTEND:20250513T173500
-SUMMARY:HTML i aplikacje webowe - (Laboratorium) - Chudzikiewicz Jan
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 3/8
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T175000
 DTEND:20250513T192500
-SUMMARY:HTML i aplikacje webowe - (Laboratorium) - Chudzikiewicz Jan
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 4/8
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T095000
 DTEND:20250514T112500
-SUMMARY:Bezpieczeństwo w cyberprzestrzeni (BwCP) - (Ćwiczenia) - Goluch Marcin
+SUMMARY:BwCP (ć)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 2/2
+Prowadzący: Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
 DTEND:20250514T131500
-SUMMARY:Systemy wbudowane - (Wykład) - Murawski Krzysztof
+SUMMARY:Swb (w)
+LOCATION:309 S
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Wykład
+Nr zajęć: 6/10
+Prowadzący: Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T133000
 DTEND:20250514T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 22/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T160000
 DTEND:20250514T173500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 7/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T175000
 DTEND:20250514T192500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 8/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
 DTEND:20250515T093500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Projekt) - Patkowski Adam
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Projekt
+Nr zajęć: 2/8
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Projekt) - Patkowski Adam
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Projekt
+Nr zajęć: 3/8
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
 DTEND:20250515T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 23/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000
 DTEND:20250516T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 22/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T095000
 DTEND:20250516T112500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+SUMMARY:PKSt (ć)
+LOCATION:205 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 6/10
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T114000
 DTEND:20250516T131500
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -
+SUMMARY:DSiSM (ć)
+LOCATION:PL.MUS
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 2/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T133000
 DTEND:20250516T150500
-SUMMARY:Gotowość mobilizacyjna i bojowa - (Wykład) -
+SUMMARY:GMiB (w)
+LOCATION:AW 3/0
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T160000
 DTEND:20250516T173500
-SUMMARY:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -
+SUMMARY:PESW (ć)
+LOCATION:33 67
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/3
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T175000
 DTEND:20250516T192500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T194000
 DTEND:20250516T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T080000
 DTEND:20250517T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 9/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T095000
 DTEND:20250519T112500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+SUMMARY:PKSt (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 7/10
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
 DTEND:20250519T131500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 23/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T160000
 DTEND:20250519T173500
-SUMMARY:Niezawodność systemów komputerowych - (Ćwiczenia) - Kapałka Michał
+SUMMARY:Nsk (ć)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 6/8
+Prowadzący: Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
 DTEND:20250520T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 24/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T114000
 DTEND:20250520T131500
-SUMMARY:Sieci komputerowe II - (Laboratorium) - Skibniewski Łukasz
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 7/10
+Prowadzący: Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
 DTEND:20250520T150500
-SUMMARY:Sieci komputerowe II - (Laboratorium) - Skibniewski Łukasz
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 8/10
+Prowadzący: Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T160000
 DTEND:20250520T173500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Laboratorium) - Jarosz Michał
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 7/10
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T175000
 DTEND:20250520T192500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Laboratorium) - Jarosz Michał
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 8/10
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
 DTEND:20250521T093500
-SUMMARY:Działania pokojowe i stabilizacyjne - (Ćwiczenia) -
+SUMMARY:DPI (ć)
+LOCATION:203 65
+DESCRIPTION:Działania pokojowe i stabilizacyjne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/1
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T095000
 DTEND:20250521T112500
-SUMMARY:Systemy wbudowane - (Wykład) - Murawski Krzysztof
+SUMMARY:Swb (w)
+LOCATION:309 S
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Wykład
+Nr zajęć: 7/10
+Prowadzący: Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T114000
 DTEND:20250521T131500
-SUMMARY:Systemy wbudowane - (Wykład) - Murawski Krzysztof
+SUMMARY:Swb (w)
+LOCATION:309 S
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Wykład
+Nr zajęć: 8/10
+Prowadzący: Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T133000
 DTEND:20250521T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 24/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T160000
 DTEND:20250521T173500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Laboratorium) - Patkowski Adam
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 4/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T175000
 DTEND:20250521T192500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Laboratorium) - Patkowski Adam
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 5/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
 DTEND:20250522T093500
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -
+SUMMARY:DSiSM (ć)
+LOCATION:PĆT2
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 3/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
 DTEND:20250522T112500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Projekt) - Jarosz Michał
+SUMMARY:Est (P)
+LOCATION:120 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Projekt
+Nr zajęć: 4/5
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T114000
 DTEND:20250522T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 25/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T133000
 DTEND:20250522T150500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 17/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
 DTEND:20250522T173500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 18/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000
 DTEND:20250523T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 25/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T095000
 DTEND:20250523T112500
-SUMMARY:Połączone wsparcie ogniowe - (Ćwiczenia) -
+SUMMARY:Pwo (ć)
+LOCATION:S3 72
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 1/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T114000
 DTEND:20250523T131500
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -
+SUMMARY:DSiSM (ć)
+LOCATION:PL.MUS
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 4/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T133000
 DTEND:20250523T150500
-SUMMARY:Gotowość mobilizacyjna i bojowa - (Wykład) -
+SUMMARY:GMiB (w)
+LOCATION:103 K
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 5/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T160000
 DTEND:20250523T173500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T175000
 DTEND:20250523T192500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T194000
 DTEND:20250523T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T080000
 DTEND:20250524T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 10/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T133000
 DTEND:20250526T150500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 19/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
 DTEND:20250526T173500
-SUMMARY:Systemy operacyjne UNIX - (Laboratorium) - Łeska Sebastian
+SUMMARY:SoU (L)
+LOCATION:09 65
+DESCRIPTION:Systemy operacyjne UNIX
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 20/20
+Prowadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T175000
 DTEND:20250526T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 10/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
 DTEND:20250527T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 26/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
 DTEND:20250527T131500
-SUMMARY:HTML i aplikacje webowe - (Laboratorium) - Chudzikiewicz Jan
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 5/8
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
-SUMMARY:HTML i aplikacje webowe - (Laboratorium) - Chudzikiewicz Jan
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 6/8
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T160000
 DTEND:20250527T173500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 9/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T175000
 DTEND:20250527T192500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 10/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T080000
 DTEND:20250528T093500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+SUMMARY:PKSt (ć)
+LOCATION:205 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 8/10
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
 DTEND:20250528T112500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Projekt) - Patkowski Adam
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Projekt
+Nr zajęć: 4/8
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
 DTEND:20250528T131500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Projekt) - Patkowski Adam
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Projekt
+Nr zajęć: 5/8
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
 DTEND:20250528T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 26/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T160000
 DTEND:20250528T173500
-SUMMARY:Niezawodność systemów komputerowych - (Ćwiczenia) - Kapałka Michał
+SUMMARY:Nsk (ć)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 7/8
+Prowadzący: Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -
+SUMMARY:PKSt (w)
+LOCATION:19 36
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 4/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
 DTEND:20250529T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 27/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T080000
 DTEND:20250530T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 27/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T095000
 DTEND:20250530T112500
-SUMMARY:Szkolenie strzeleckie - (Ćwiczenia) - -
+SUMMARY:SzS (ć)
+LOCATION:ST.nr
+DESCRIPTION:Szkolenie strzeleckie
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 5/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T114000
 DTEND:20250530T131500
-SUMMARY:Szkolenie strzeleckie - (Ćwiczenia) - -
+SUMMARY:SzS (ć)
+LOCATION:ST.nr
+DESCRIPTION:Szkolenie strzeleckie
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 6/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T133000
 DTEND:20250530T150500
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -
+SUMMARY:DSiSM (ć)
+LOCATION:ST.nr
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 5/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T160000
 DTEND:20250530T173500
-SUMMARY:Gotowość mobilizacyjna i bojowa - (Wykład) -
+SUMMARY:GMiB (w)
+LOCATION:103 K
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 6/6
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T175000
 DTEND:20250530T192500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T194000
 DTEND:20250530T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T080000
 DTEND:20250531T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 11/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T080000
 DTEND:20250602T093500
-SUMMARY:Połączone wsparcie ogniowe - (Ćwiczenia) -
+SUMMARY:Pwo (ć)
+LOCATION:20 69
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 2/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T095000
 DTEND:20250602T112500
-SUMMARY:Połączone wsparcie ogniowe - (Ćwiczenia) -
+SUMMARY:Pwo (ć)
+LOCATION:20 69
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 3/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T114000
 DTEND:20250602T131500
-SUMMARY:Połączone wsparcie ogniowe - (Ćwiczenia) -
+SUMMARY:Pwo (ć)
+LOCATION:20 69
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 4/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
 DTEND:20250602T150500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Laboratorium) - Patkowski Adam
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 6/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000
 DTEND:20250602T173500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Laboratorium) - Patkowski Adam
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 7/7
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
 DTEND:20250603T112500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+SUMMARY:PKSt (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 9/10
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T114000
 DTEND:20250603T131500
-SUMMARY:JavaEE Technologies - (Laboratorium) - Targowski Piotr
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 7/10
+Prowadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T133000
 DTEND:20250603T150500
-SUMMARY:JavaEE Technologies - (Laboratorium) - Targowski Piotr
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 8/10
+Prowadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
 DTEND:20250605T112500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+SUMMARY:PKSt (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 10/10
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000
 DTEND:20250605T131500
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna - (repetytorium) -
+SUMMARY:DSiSM (Inne)
+LOCATION:AW 3/0
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (repetytorium) -
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/1
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
 DTEND:20250606T093500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 28/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T095000
 DTEND:20250606T112500
-SUMMARY:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -
+SUMMARY:PESW (ć)
+LOCATION:S3 72
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 2/3
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T114000
 DTEND:20250606T131500
-SUMMARY:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -
+SUMMARY:PESW (ć)
+LOCATION:S3 72
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 3/3
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T160000
 DTEND:20250606T173500
-SUMMARY:Gotowość mobilizacyjna i bojowa - (Seminarium) -
+SUMMARY:GMiB (Inne)
+LOCATION:AW 3/0
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Seminarium) -
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/1
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T175000
 DTEND:20250606T192500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T194000
 DTEND:20250606T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T080000
 DTEND:20250607T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 12/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000
 DTEND:20250609T131500
-SUMMARY:HTML i aplikacje webowe - (Laboratorium) - Chudzikiewicz Jan
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 7/8
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T133000
 DTEND:20250609T150500
-SUMMARY:HTML i aplikacje webowe - (Laboratorium) - Chudzikiewicz Jan
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 8/8
+Prowadzący: Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T160000
 DTEND:20250609T173500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 11/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000
 DTEND:20250610T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 29/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T114000
 DTEND:20250610T131500
-SUMMARY:Sieci komputerowe II - (Laboratorium) - Skibniewski Łukasz
+SUMMARY:SKII (L)
+LOCATION:125 65
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 9/10
+Prowadzący: Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T133000
 DTEND:20250610T150500
-SUMMARY:Sieci komputerowe II - (Laboratorium) - Skibniewski Łukasz
+SUMMARY:SKII (L)
+LOCATION:125 65
+DESCRIPTION:Sieci komputerowe II
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 10/10
+Prowadzący: Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T160000
 DTEND:20250610T173500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 11/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T175000
 DTEND:20250610T192500
-SUMMARY:Systemy wbudowane - (Laboratorium) - Miktus Artur
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 12/12
+Prowadzący: Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T095000
 DTEND:20250611T112500
-SUMMARY:Systemy wbudowane - (Wykład) - Murawski Krzysztof
+SUMMARY:Swb (w)
+LOCATION:309 S
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Wykład
+Nr zajęć: 9/10
+Prowadzący: Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
 DTEND:20250611T131500
-SUMMARY:Systemy wbudowane - (Wykład) - Murawski Krzysztof
+SUMMARY:Swb (w)
+LOCATION:309 S
+DESCRIPTION:Systemy wbudowane
+Rodzaj zajęć: Wykład
+Nr zajęć: 10/10
+Prowadzący: Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T133000
 DTEND:20250611T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 28/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T175000
 DTEND:20250611T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 12/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T080000
 DTEND:20250612T093500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Laboratorium) - Jarosz Michał
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 9/10
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T095000
 DTEND:20250612T112500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Laboratorium) - Jarosz Michał
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 10/10
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T114000
 DTEND:20250612T131500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 29/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
 DTEND:20250612T150500
-SUMMARY:Eksploracja sieci teleinformatycznych - (Projekt) - Jarosz Michał
+SUMMARY:Est (P)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych
+Rodzaj zajęć: Projekt
+Nr zajęć: 5/5
+Prowadzący: Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000
 DTEND:20250613T093500
-SUMMARY:Regulaminy SZ RP - (Ćwiczenia) -
+SUMMARY:REG (ć)
+LOCATION:PL.MUS
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 3/3
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T095000
 DTEND:20250613T112500
-SUMMARY:Połączone wsparcie ogniowe - (Ćwiczenia) -
+SUMMARY:Pwo (ć)
+LOCATION:20 69
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 5/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
 DTEND:20250613T131500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Projekt) - Patkowski Adam
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Projekt
+Nr zajęć: 6/8
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T133000
 DTEND:20250613T150500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Projekt) - Patkowski Adam
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Projekt
+Nr zajęć: 7/8
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T160000
 DTEND:20250613T173500
-SUMMARY:Oprogramowanie niepożądane i inspekcja kodu - (Projekt) - Patkowski Adam
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu
+Rodzaj zajęć: Projekt
+Nr zajęć: 8/8
+Prowadzący: Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T175000
 DTEND:20250613T192500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T194000
 DTEND:20250613T211500
-SUMMARY:- - (Studium Szkol. Wojs.) - -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-
+Rodzaj zajęć: Nieznany
+Nr zajęć: 1/25
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T080000
 DTEND:20250614T093500
-SUMMARY:XWychowanie fizyczne - (Ćwiczenia) - -
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 13/13
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T114000
 DTEND:20250616T131500
-SUMMARY:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -
+SUMMARY:PKSt (w)
+LOCATION:19 36
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -
+Rodzaj zajęć: Wykład
+Nr zajęć: 5/5
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
 DTEND:20250617T112500
-SUMMARY:Wychowanie fizyczne - (Ćwiczenia) -
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 30/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000
 DTEND:20250617T131500
-SUMMARY:JavaEE Technologies - (Laboratorium) - Targowski Piotr
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 9/10
+Prowadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000
 DTEND:20250617T150500
-SUMMARY:JavaEE Technologies - (Laboratorium) - Targowski Piotr
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 10/10
+Prowadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T160000
 DTEND:20250617T173500
-SUMMARY:Niezawodność systemów komputerowych - (Ćwiczenia) - Kapałka Michał
+SUMMARY:Nsk (ć)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 8/8
+Prowadzący: Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T175000
 DTEND:20250617T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 13/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
 DTEND:20250618T150500
-SUMMARY:Język angielski - (Ćwiczenia) - -
+SUMMARY:Ja (ć)
+LOCATION:239 K
+DESCRIPTION:Język angielski
+Rodzaj zajęć: Ćwiczenia
+Nr zajęć: 30/30
+Prowadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T175000
 DTEND:20250618T192500
-SUMMARY:Ataki sieciowe - (Laboratorium) - Myśliwiec Adrian
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe
+Rodzaj zajęć: Laboratorium
+Nr zajęć: 14/14
+Prowadzący: Adrian Myśliwiec
 END:VEVENT
 END:VCALENDAR
