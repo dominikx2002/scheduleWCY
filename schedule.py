@@ -45,6 +45,17 @@ def fetch_schedule():
         raise Exception(f"Błąd pobierania strony! Kod: {response.status_code}")
     return response.text
 
+def count_total_lessons(lessons):
+    """Zlicza łączną liczbę zajęć dla każdego przedmiotu i typu zajęć"""
+    total_lessons = {}
+    for lesson in lessons:
+        key = (lesson["full_subject"], lesson["type_full"])
+        if key in total_lessons:
+            total_lessons[key] += 1
+        else:
+            total_lessons[key] = 1
+    return total_lessons
+
 def parse_schedule(html, academic_titles):
     soup = BeautifulSoup(html, "html.parser")
     lessons = []
@@ -104,10 +115,16 @@ def parse_schedule(html, academic_titles):
         except Exception as e:
             print(f"Błąd parsowania zajęć: {e}")
     
+    total_lessons_dict = count_total_lessons(lessons)
+
+    for lesson in lessons:
+        key = (lesson["full_subject"], lesson["type_full"])
+        lesson["lesson_number"] = f"{lesson['lesson_number']}/{total_lessons_dict.get(key, '?')}" 
+
     return lessons
 
 def generate_ics(lessons, filename="schedule.ics"):
-    ics_content = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//WATplan//EN\nCALSCALE:GREGORIAN\n"
+    ics_content = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//scheduleWCY//EN\nCALSCALE:GREGORIAN\n"
     
     for lesson in lessons:
         start = lesson['start'].strftime("%Y%m%dT%H%M%S")
